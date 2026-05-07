@@ -1,0 +1,6 @@
+{
+  "name": "Doctor Git ",
+  "description": "Analyze GitHub folder structures and README files to extract system blueprints, core architectures, and hidden flows, returning results in English and Bangla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
